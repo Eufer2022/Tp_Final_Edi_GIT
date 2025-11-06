@@ -1,0 +1,23 @@
+{
+  "name": "ejercicioedi",
+  "version": "1.0.0",
+  "description": "Crear un branch y hacer cambios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eufer2022/EjercicioEdi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eufer2022/EjercicioEdi/issues"
+  },
+  "homepage": "https://github.com/Eufer2022/EjercicioEdi#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
